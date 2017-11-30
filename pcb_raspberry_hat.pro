@@ -1,4 +1,4 @@
-update=Tue 28 Nov 2017 06:51:44 PM WET
+update=29/11/2017 22:38:26
 version=1
 last_client=kicad
 [cvpcb]
@@ -82,7 +82,7 @@ LabSize=50
 version=1
 [eeschema]
 version=1
-LibDir=/home/ricardo/kicad/library
+LibDir=D:/kicad-library-master/library
 [eeschema/libraries]
 LibName1=conn
 LibName2=power
